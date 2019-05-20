@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Threat model for internal project creation",
+    "owner": "Travis Hill",
+    "description": "Processing work flow for Software project creation in engineering tools"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "The crew"
+  }
+}
